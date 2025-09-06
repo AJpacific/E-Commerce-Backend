@@ -317,17 +317,6 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
 4. Add tests for new functionality
 5. Submit a pull request
 
-## 📄 **License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🆘 **Support**
-
-For support and questions:
-- Create an issue in the repository
-- Check the API documentation
-- Review the test examples
-
 ## 🎯 **Roadmap**
 
 - [ ] Email notifications
